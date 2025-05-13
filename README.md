@@ -13,3 +13,21 @@
 - Zustand  
 - TypeScript
 
+## Prerequisites
+- Node.js (v16 or later)
+- npm/yarn
+- Expo CLI (install with `npm install -g expo-cli`)
+
+## Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/BiniTobi/gymappbini.git
+   cd gymappbini
+2. Install dependencies:
+
+bash
+npm install
+# or
+yarn install
+
+3. npm start
