@@ -1,7 +1,6 @@
-# Workout Planner (React Native)
+# Gym Workout Planner (React Native)
 
-![App Screenshot](./assets/screenshots/main.png)
-
+![image alt](https://github.com/BiniTobi/gymappbini/blob/main/src/assets/screenshots/main.png?raw=true)
 
 - Smooth horizontal scrolling with FlatList
 - Drag-to-reorder exercises in edit mode
