@@ -1,6 +1,6 @@
 # Workout Planner (React Native)
 
-![App Screenshot](/assets/screenshots/main.png)
+![App Screenshot](./assets/screenshots/main.png)
 
 
 - Smooth horizontal scrolling with FlatList
